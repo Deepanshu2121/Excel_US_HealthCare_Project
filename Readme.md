@@ -31,7 +31,8 @@
 
 ## Dashboard 
 
-![Dashboard link](<US HealthCare Dashboard.png>)
+<img width="1894" height="826" alt="US HealthCare Dashboard" src="https://github.com/user-attachments/assets/9bc0fd1f-8d21-4372-92f2-a04090f90f2b" />
+
 
 ## Project Insights
 
@@ -47,3 +48,4 @@
 
 ## Final Conclusion 
 The study shows that Hypertension is the most common health issue, mostly seen in middle-aged** and older people. Females have more health conditions overall, while males face more Hypertension cases. Emergency admissions and months like June, October, and November increase costs. Focusing on prevention, cost control, and good resource planning can help improve hospital performance and reduce expenses.
+
